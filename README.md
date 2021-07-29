@@ -1,4 +1,4 @@
-# Engineering Mangager Assignment
+# Engineering Manager Assignment
 
 The fictional smart link company **UrlSpark** is on a journey to drive innovation in online music marketing. To keep up with the market it is crucial their engineering teams are performing well to drive new opportunities. This is a task for the Engineering Manager role, to identify how we can find ways to improve the efficiency and motivation of the two engineering teams.
 
