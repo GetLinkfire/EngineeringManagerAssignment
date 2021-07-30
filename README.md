@@ -13,7 +13,7 @@ UrlSpark monitors the health of their teams, by monitoring some of the metrics o
 
 
 ## The task
-It is your job to identify challenges the teams are facing and create a plan to achieve high performance teams. Use the information available to you to get an idea of the state of the two teams. There is **no requirement** to do statistical analysis, and you can apply your own assumptions for information you do not have.
+It is your job to identify challenges the teams are facing and create a plan to achieve high performant teams. Use the information available to you to get an idea of the state of the two teams. There is **no requirement** to do statistical analysis, and you can apply your own assumptions for information you do not have.
 
 ### 1. Analyse the problem.
 Identify the main challenges you see in and between the two teams. In your experience what could be the cause of the situation and what impact is it having on the teams and the company? What could some of the consquences be of this situation?
