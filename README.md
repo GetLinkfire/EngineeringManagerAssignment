@@ -8,7 +8,7 @@ The fictional smart link company **UrlSpark** is on a journey to drive innovatio
 
 **Team B** is working on building new products that utilize the knowledge and data from the SAAS Platform. The mission is to expand the market by building integrations that clients and partners can use as part of their own systems and websites. To do this Team B is using Team A's API and requesting changes when necessary.
 
-### Team health reports
+### Team health report
 UrlSpark monitors the health of their teams, by monitoring some of the metrics of the team backlogs and their SDLC. In the report you can filter by team using the dropdown in the top right corner. Check out the UrlSpack Engineering Team Report here: https://team.lnk.to/EngManTask
 
 
